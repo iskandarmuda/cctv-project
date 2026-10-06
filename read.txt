@@ -1,0 +1,4 @@
+FPS = jumlah frame yang diproses dalam 1 detik
+
+shortcut tombol exit - q
+shortcut tombol screen - s
